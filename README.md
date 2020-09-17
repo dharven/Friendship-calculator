@@ -12,3 +12,4 @@ Love calculator is an android application which calculates the love percentage f
 The apk of this application can be found in the apk folder in the repositries.
 
 ## Application-Output
+![friend](https://user-images.githubusercontent.com/70836668/93501538-366d4300-f933-11ea-81cc-52349708f1a4.png)
