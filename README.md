@@ -1,5 +1,5 @@
 # Friendship-calculator
-Love calculator is an android application which calculates the love percentage from the names of the partners. I made this application using android studio in Java language.
+Friendship calculator is an android application which calculates the friendship percentage from the names of the partners. We made this application using android studio in Java language.
 
 ## Working
 1. It takes the name of a person from the user.
