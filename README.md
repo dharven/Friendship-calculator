@@ -15,5 +15,5 @@ The apk of this application can be found in the apk folder in the repositries.
 ![friend](https://user-images.githubusercontent.com/70836668/93501538-366d4300-f933-11ea-81cc-52349708f1a4.png)
 
 ## Team
-1. Shashank Mistry
+1. Shashank Mistry(https://github.com/ShashankMistry)
 2. Dharven Doshi(https://github.com/dharven)
